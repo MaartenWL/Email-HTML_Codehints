@@ -1,0 +1,12 @@
+{
+    "title": "Measuremail CampaignCLoud HTML elements",
+    "name": "brackets-html5codehints",
+    "description": "Extends HTML code hints with Measuremail CampaignCLoud HTML elements. ",
+    "version": "0.1",
+    "keywords":["template","email","CampaignCloud"],
+    "author": "m.lierop <m.lierop@measuremail.com>",
+    "homepage": "https://www.measuremail.com",
+    "engines": {
+        "brackets": ">=1.1"
+    }
+}
