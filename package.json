@@ -1,8 +1,8 @@
 {
-    "title": "Measuremail Spike - Email HTML Codehints",
-    "name": "MaartenWL.Spike_EmailHTML_Codehints",
-    "description": "Adds email HTML codehinting for HTML tags and CSS.",
-    "version": "0.0.2",
+    "title": "Measuremail CampaignCLoud HTML elements",
+    "name": "lierop.brackets-cclayout-codehints",
+    "description": "Extends HTML code hints with Measuremail CampaignCLoud HTML elements.",
+    "version": "0.1.0",
     "keywords":["template","email","CampaignCloud"],
     "author": "m.lierop <m.lierop@measuremail.com>",
     "homepage": "http://www.measuremail.com",
@@ -10,6 +10,7 @@
         "main.js",
         "HtmlAttributes.json",
         "HtmlTags.json",
+        "CSSProperties.json",
         "brackets-cclayoutbuilder-panel.html",
         "README.md"
     ]
