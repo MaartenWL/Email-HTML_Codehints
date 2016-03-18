@@ -1,8 +1,8 @@
 {
-    "title": "Measuremail CampaignCLoud HTML elements",
-    "name": "lierop.brackets-cclayout-codehints",
-    "description": "Extends HTML code hints with Measuremail CampaignCLoud HTML elements.",
-    "version": "0.0.1",
+    "title": "Measuremail Spike - Email HTML Codehints",
+    "name": "lierop.Spike_EmailHTML_Codehints",
+    "description": "Adds email HTML codehinting for HTML tags and CSS.",
+    "version": "0.0.2",
     "keywords":["template","email","CampaignCloud"],
     "author": "m.lierop <m.lierop@measuremail.com>",
     "homepage": "http://www.measuremail.com",
