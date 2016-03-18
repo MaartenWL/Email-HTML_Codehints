@@ -61,7 +61,7 @@
                                              "image/x-portable-pixmap", "image/x-portable-greymap", "image/x-portablebitmap"] },
     "accept-charset":     { "attribOption": [] , "global": "false"},
     "action":             { "attribOption": [] , "global": "false"},
-    "align":              { "attribOption": ["left","center","right"] , "global": "false"},
+    "align":              { "attribOption": ["left","center","right","justify"] , "global": "false"},
     "alt":                { "attribOption": [] , "global": "false" },
     "archive":            { "attribOption": [] , "global": "false"},
     "async":              { "attribOption": [] , "global": "false", "type": "flag" },
