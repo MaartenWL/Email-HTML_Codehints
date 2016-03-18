@@ -77,7 +77,7 @@
     "i":          { "attributes": [] },
     "iframe":     { "attributes": ["frameborder", "height", "name", "sandbox", "scrolling", "seamless", "src", "srcdoc", "width"] },
     "ilayer":     { "attributes": [] },
-    "img":        { "attributes": ["alt", "height", "ismap", "longdesc", "sizes", "src", "srcset", "usemap", "width"] },
+    "img":        { "attributes": ["alt", "height", "ismap", "longdesc", "sizes", "src", "srcset", "usemap", "width", "border"] },
     "input":      { "attributes": ["accept", "alt", "autocomplete", "autocorrect", "autofocus", "checked", "dirname", "disabled", "form", "formaction", "formenctype", "formmethod",
                                    "formnovalidate", "formtarget", "height", "inputmode", "list", "max", "maxlength", "min", "minlength", "multiple", "name", "pattern", "placeholder", "readonly",
                                    "required", "size", "src", "step", "type", "value", "width"] },
