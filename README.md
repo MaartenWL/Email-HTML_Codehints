@@ -1,7 +1,7 @@
-Brackets-CampaignCloud tags
+Brackets Email HTML code hints
 =======================
 
-This Brackets extension adds cod ehinting for:
+This Brackets extension adds code hinting for:
 - General HTML (HTML5) tags and attributes
 - Email related HTML tags and attributes
 
