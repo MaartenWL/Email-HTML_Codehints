@@ -8,3 +8,7 @@ This Brackets extension adds cod ehinting for:
 And
 - Custom tags for Measuremail CampaignCloud Template Parts
 - Custom attributes to adjust the behavior of the Measuremail CSS-Inliner Tool
+
+This extension is basicly a combination of the following extensions:
+- More CSS Code Hints     https://github.com/coliff/
+- More HTML5 Code Hints   https://github.com/coliff/Brackets-HTML5CodeHints/
