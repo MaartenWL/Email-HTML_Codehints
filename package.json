@@ -5,7 +5,7 @@
     "version": "0.1.0",
     "keywords": ["template", "email", "CampaignCloud"],
     "author": "m.lierop <m.lierop@measuremail.com>",
-    "homepage": "http://www.measuremail.com",
+    "homepage": "https://github.com/MaartenWL/Email-HTML_Codehints",
     "files": [
         "main.js",
         "HtmlAttributes.json",
