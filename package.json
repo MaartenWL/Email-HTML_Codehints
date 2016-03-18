@@ -1,6 +1,6 @@
 {
     "title": "Measuremail Spike - Email HTML Codehints",
-    "name": "lierop.Spike_EmailHTML_Codehints",
+    "name": "MaartenWL.Spike_EmailHTML_Codehints",
     "description": "Adds email HTML codehinting for HTML tags and CSS.",
     "version": "0.0.2",
     "keywords":["template","email","CampaignCloud"],
