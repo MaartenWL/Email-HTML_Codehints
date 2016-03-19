@@ -1,8 +1,8 @@
 {
     "title": "Email-HTML code hints",
     "name": "lierop.brackets-cclayout-codehints",
-    "description": "Extends HTML code hints for email HTML and CSS. It also adds support for Measuremail CampaignCLoud and Spike emailtemplate development.",
-    "version": "0.1.0",
+    "description": "Extends HTML code hints for email HTML and CSS. It also adds support for Measuremail CampaignCLoud and Measuremail emailtemplate development.",
+    "version": "0.1.1",
     "keywords": ["template", "email", "CampaignCloud"],
     "author": "m.lierop <m.lierop@measuremail.com>",
     "homepage": "https://github.com/MaartenWL/Email-HTML_Codehints",
