@@ -2,7 +2,7 @@
     "cc-section":           { "attributes": [] },
     "cc-repeater":          { "attributes": [] },
     "cc-partgroup":         { "attributes": [] },
-    "cc-singleline":        { "attributes": [DynamicListIds", "DynamicSegmentId", "allowLink", "isInternalLink"] },
+    "cc-singleline":        { "attributes": ["DynamicListIds", "DynamicSegmentId", "allowLink", "isInternalLink"] },
     "cc-datetime":          { "attributes": ["DynamicListIds", "DynamicSegmentId", "format", "culture"] },
     "cc-multiline":         { "attributes": ["DynamicListIds", "DynamicSegmentId"] },
     "cc-richeditor":        { "attributes": ["DynamicListIds", "DynamicSegmentId", "toolbar", "enableP"] },
