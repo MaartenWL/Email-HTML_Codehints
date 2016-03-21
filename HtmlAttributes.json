@@ -22,7 +22,7 @@
     "toolbar":            { "attribOption": [], "global": "false"},
     "mm-inline":          { "attribOption": ["inline-remove","inline-preserve","inline-body-top","inline-body-bottom","body-top","body-bottom","none"], "global": "false"}, 
     "mm-minify":          { "attribOption": [], "global": "false", "type": "boolean"}, 
-    "no-style":           { "attribOption": [], "global": "false", "type": "flag" },
+    "no-style":           { "attribOption": [], "global": "true", "type": "flag" },
     "accesskey":          { "attribOption": [], "global": "true" },
     "class":              { "attribOption": [], "global": "true", "type": "cssStyle" },
     "contenteditable":    { "attribOption": [], "global": "false", "type": "boolean" },
