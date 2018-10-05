@@ -18,6 +18,7 @@
     "cc-librarysnapshot":   { "attributes": ["DynamicListIds", "DynamicSegmentId", "libraryRecordName"] },
     "cc-configvaluewriter": { "attributes": ["DynamicListIds", "DynamicSegmentId"] },
     "cc-partgroupcolorvariables": { "attributes": ["colorVariableName", "editor", "initialValue", "allowEmpty", "values", "showHtmlColors", "options", "spectrumFlat", "spectrumShowInput", "spectrumShowInitial", "spectrumShowPalette", "spectrumShowPaletteOnly", "spectrumToggleMoreAndLessButton", "spectrumClickoutFiresChange", "spectrumHideAfterPaletteSelect", "spectrumShowButtons"] },
+    "spike":                { "attributes": ["data-spk-if", "data-spk-unless", "data-spk-repeat", "data-spk-repeat-content", "data-spk-case", "data-spk-when", "data-spk-else"]},
     "a":          { "attributes": ["href", "hreflang", "media", "rel", "target", "type"] },
     "abbr":       { "attributes": [] },
     "acronym":    { "attributes": [] },
