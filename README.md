@@ -6,8 +6,10 @@ This Brackets extension adds code hinting for:
 - Email related HTML tags and attributes
 
 And
+- Custom tags for Spike conditional content
+- Custom attributes to adjust the behavior of the Spike CSS-Inliner Tool
 - Custom tags for Measuremail CampaignCloud Template Parts
-- Custom attributes to adjust the behavior of the Measuremail CSS-Inliner Tool
+- 
 
 This extension is basicly a combination of the following extensions:
 - More CSS Code Hints     https://github.com/coliff/
